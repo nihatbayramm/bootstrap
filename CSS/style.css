@@ -1,0 +1,16 @@
+section {
+  color: rgb(232, 224, 5); 
+  background-color: black; 
+  font-family: fantasy;
+  text-align: center;
+  list-style-type: none;
+}
+
+li {
+  color: rgb(17, 2, 131);
+}
+
+ul {
+  list-style-type: none;
+  
+}
